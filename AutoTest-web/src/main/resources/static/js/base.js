@@ -1,0 +1,1 @@
+var app=angular.module('automation',[]); //定义模块不分页
